@@ -1,0 +1,1 @@
+/home/kimdohoon/code/projects/rust/02_00_Cargo_Guess_Game/new_guessing_game/guessing_game/target/debug/guessing_game: /home/kimdohoon/code/projects/rust/02_00_Cargo_Guess_Game/new_guessing_game/guessing_game/src/main.rs
