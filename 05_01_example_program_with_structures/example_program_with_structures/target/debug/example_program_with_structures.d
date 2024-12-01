@@ -1,0 +1,1 @@
+/home/kimdohoon/code/projects/rust/05_01_example_program_with_structures/example_program_with_structures/target/debug/example_program_with_structures: /home/kimdohoon/code/projects/rust/05_01_example_program_with_structures/example_program_with_structures/src/main.rs
