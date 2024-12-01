@@ -1,0 +1,1 @@
+/home/kimdohoon/code/projects/rust/05_00_structure_and_instantiation/structure_and_instantiation/target/debug/structure_and_instantiation: /home/kimdohoon/code/projects/rust/05_00_structure_and_instantiation/structure_and_instantiation/src/main.rs
